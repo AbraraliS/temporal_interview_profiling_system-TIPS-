@@ -5,7 +5,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=for-the-badge)
 ![Whisper](https://img.shields.io/badge/Whisper-ASR-6A5ACD?style=for-the-badge)
 ![Local LLM](https://img.shields.io/badge/LLM-Local%20Inference-00b894?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Custom%20Proprietary-red?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20|%20Windows%20|%20Mac-black?style=for-the-badge)
 
 ---
