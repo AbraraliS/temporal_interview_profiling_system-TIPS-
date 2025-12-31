@@ -1,0 +1,4 @@
+# Live Transcription Requirements
+openai-whisper
+pyaudio
+numpy
